@@ -225,10 +225,10 @@ a {
     background: #2e2f42;
 }
 
-.footer-paragraph {
+footer .footer-paragraph {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #f4f4fd;
-    line-height: 1.5
-    letter-spacing: 0.02em
 }
 
 .nav-link {
