@@ -79,7 +79,7 @@ a {
     display: block;
     margin: 0 auto;
     padding: 16px 32px;
-    background-color: #4d5ae5;
+    background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -92,9 +92,11 @@ a {
     transition: background-color 250ms ease;
 }
 
-.hero-button:hover,
+.hero-button:hover{
+        background-color: #404bbf;
+
+    }
 .hero-button:focus {
-    background-color: #404bbf;
     color: #f4f4fd;
 }
 
