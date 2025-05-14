@@ -94,7 +94,8 @@ a {
 
 .hero-button:hover,
 .hero-button:focus {
-    background-color: #404BBF
+    background-color: #404BBF;
+    cursor: pointer;
 }
 
 .sr-only {
